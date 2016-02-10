@@ -1,16 +1,22 @@
 # Rock Paper Scissors
 ADDA JS week 1 assignment
 
+## Objectives
+- I can use variables, if else statements, while loops to structure a program.
+- I can use javascript to store and compare data from a user.
+- I can use git and github to submit my work.
+
 ## Direction
 Make a rock paper scissors game using javascript that runs in the browser. Use `prompt` and `confirm` to gather input. Keep the game running as long a the user wants to play. Update the score as the game goes.
 
-Rules (if you forgot)
-Rock beats scissors
-Paper beats rock
-Scissors beat paper
+### Rules (if you forgot)
+- Rock beats scissors
+- Paper beats rock
+- Scissors beat paper
 
 ## Using Git
 *Make sure to commit often!* 
+
 1. Save work. 
 2. In terminal run the following commands
 ```
@@ -39,9 +45,9 @@ Make a list of the possible computers moves, store in an array.
 Generate the computers play by randomly choosing from the array of plays.
 
 Check the computers play versus the users play
-If the user choose rock, check versus the computers play. Award points to the winner.
-if the user choose paper, check versus the computers play. Award points to the winner.
-if the user choose scissors, check versus the computer play. Award points to the winner.
+- If the user choose rock, check versus the computers play. Award points to the winner.
+- If the user choose paper, check versus the computers play. Award points to the winner.
+- If the user choose scissors, check versus the computer play. Award points to the winner.
 
 Inform the player of the outcome, see if they want to continue playing the game. If they confirm, playing remains true. If they don't want to play, playing changes to false.
 
@@ -49,6 +55,7 @@ Once the users chooses not to play anymore, write the score to the screen!
 
 ## Bonus
 *To easy? Add some features.*
+
 Bonus 1: count the user's ties
 - count everytime the user ties and display that when your game prompts the user to "Please choose one of these..."
 - also display the user's ties when the user quits
