@@ -17,14 +17,14 @@ Make a rock paper scissors game using javascript that runs in the browser. Use `
 ## Using Git
 *Make sure to commit often!* 
 
-1. Save work. 
-2. In terminal run the following commands
+- Save work. 
+- In terminal run the following commands
 ```
-	git add .
-	git commit -m "add a message"
-	git push
+git add .
+git commit -m "add a message"
+git push
 ```
-3. Do a final push by Tuesday night.
+- Do a final push by Tuesday night.
 
 ## Getting Help
 Stuck? Try the psuedo code below to get you started. Consider phoning (or slacking!) a friend. I'll make myself available as much as possible, reach out to me on slack. 
