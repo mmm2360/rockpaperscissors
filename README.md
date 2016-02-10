@@ -6,7 +6,7 @@ ADDA JS week 1 assignment
 - I can use javascript to store and compare data from a user.
 - I can use git and github to submit my work.
 
-## Direction
+## Directions
 Make a rock paper scissors game using javascript that runs in the browser. Use `prompt` and `confirm` to gather input. Keep the game running as long a the user wants to play. Update the score as the game goes.
 
 ### Rules (if you forgot)
